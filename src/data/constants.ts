@@ -195,7 +195,7 @@ export const TRAINING_FORMATS = [
 
 // Fixed official Google Apps Script Webhook URL for Cụm Công Nghiệp Vàm Cống
 export const FIXED_GOOGLE_SHEETS_WEBHOOK_URL =
-  'https://script.google.com/macros/s/AKfycbwsXM3N0Uu2V0JiDaYr3tbDxSA3lYAleOxROOxmYrNEwOcL5tbCfBWfU5YEXxUBkxpN/exec';
+  'https://script.google.com/macros/s/AKfycbwkbIUklIRxzxyTnpGmWqg4g4fTpfP7HOkB2aiZJvN0BmDZJT8u4YbmTIo2F77WKy39/exec';
 
 // Sample Google Apps Script template for one-click setup
 export const SAMPLE_APPS_SCRIPT_CODE = `/**
