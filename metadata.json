@@ -1,0 +1,6 @@
+{
+  "name": "Khảo Sát Năng Lực & Nhận Diện AI",
+  "description": "Hệ thống khảo sát trực tuyến đánh giá thực trạng sử dụng và nhu cầu đào tạo AI toàn hệ thống Sao Mai Group (AFO, IDI, Trisedco, Sao Mai Super Feed).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
